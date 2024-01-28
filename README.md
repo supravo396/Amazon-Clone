@@ -1,2 +1,2 @@
 # Amazon-Clone
-This is an AMAZON main page clone make using HTML and CSS.
+This is an AMAZON main page clone made using HTML and CSS.
